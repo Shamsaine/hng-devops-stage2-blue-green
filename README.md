@@ -245,8 +245,8 @@ This project is part of the HNG DevOps Stage 2 curriculum.
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Shamsudeen Ibrahim 
 **Stage**: HNG DevOps Stage 2  
-**Date**: October 2024  
+**Date**: October 2025  
 
 For questions or support, please refer to the [DECISION.md](DECISION.md) for architectural decisions and reasoning.
